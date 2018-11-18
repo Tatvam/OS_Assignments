@@ -1,4 +1,4 @@
-Producer-Consumer Problem using semaphore and shares memory segment.
+Producer-Consumer Problem using semaphore and share memory segment.
 
 How to compile:
     g++ -std=c++11 producer.cpp  -pthread -lrt -o producer  
